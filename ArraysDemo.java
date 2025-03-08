@@ -5,7 +5,6 @@
  * Explanation:
  * This program demonstrates the use of arrays by storing and displaying a set of integers.
  */
-
 public class ArraysDemo {
     public static void main(String[] args) {
         // Declare and initialize an array
