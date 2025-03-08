@@ -7,6 +7,7 @@
  * Generics allow the definition of classes and methods with type parameters.
  */
 
+ 
 class Box<T> {
     private T value;
 
