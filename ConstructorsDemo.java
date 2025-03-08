@@ -5,7 +5,6 @@
  * Explanation:
  * This program demonstrates the use of constructors in Java.
  */
-
 class Person {
     String name;
 
