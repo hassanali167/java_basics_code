@@ -5,7 +5,6 @@
  * Explanation:
  * This program demonstrates the use of ArrayList, HashSet, and HashMap in Java.
  */
-
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.HashMap;
