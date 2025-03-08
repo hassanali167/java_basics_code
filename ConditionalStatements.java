@@ -6,7 +6,7 @@
  * Demonstrates the use of if-else and switch statements for decision-making.
  */
 
- public class ConditionalStatements {
+public class ConditionalStatements {
     public static void main(String[] args) {
         int number = 10;
         
