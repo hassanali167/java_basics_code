@@ -5,7 +5,6 @@
  * Explanation:
  * This program demonstrates encapsulation by using private variables and public getter/setter methods.
  */
-
 class Student {
     private int age;
 
