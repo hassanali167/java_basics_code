@@ -6,6 +6,7 @@
  * This program demonstrates single inheritance in Java.
  */
 
+
 class Animal {
     void sound() {
         System.out.println("Animals make sound.");
