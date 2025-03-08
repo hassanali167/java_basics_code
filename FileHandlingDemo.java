@@ -6,7 +6,6 @@
  * This program demonstrates how to write and read a file using 
  * FileWriter and FileReader in Java.
  */
-
 import java.io.FileWriter;
 import java.io.FileReader;
 import java.io.IOException;
