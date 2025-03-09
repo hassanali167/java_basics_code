@@ -7,7 +7,7 @@
  * and assignment operators in Java.
  */
 
- public class OperatorsDemo {
+public class OperatorsDemo {
     public static void main(String[] args) {
         // Arithmetic Operators
         int a = 10, b = 5;
