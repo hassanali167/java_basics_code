@@ -7,6 +7,7 @@
  * that adds two numbers and returns the result.
  */
 
+
 public class MethodsDemo {
     // Method to add two numbers
     public static int addNumbers(int a, int b) {
