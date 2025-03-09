@@ -6,6 +6,7 @@
  * This program demonstrates creating threads using the Thread class and the Runnable interface.
  */
 
+
 class MyThread extends Thread {
     public void run() {
         for (int i = 1; i <= 5; i++) {
