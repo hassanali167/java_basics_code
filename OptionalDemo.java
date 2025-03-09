@@ -6,6 +6,7 @@
  * This program demonstrates how to use the Optional class to handle null values safely.
  */
 
+
 import java.util.Optional;
 
 public class OptionalDemo {
