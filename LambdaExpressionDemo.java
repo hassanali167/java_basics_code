@@ -7,7 +7,6 @@
  */
 
 import java.util.ArrayList;
-
 public class LambdaExpressionDemo {
     public static void main(String[] args) {
         // Using a lambda expression to print a list of numbers
