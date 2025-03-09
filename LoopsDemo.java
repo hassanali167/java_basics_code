@@ -6,6 +6,7 @@
  * This program demonstrates the usage of for, while, and do-while loops in Java.
  */
 
+
 public class LoopsDemo {
     public static void main(String[] args) {
         // For loop: Prints numbers from 1 to 5
