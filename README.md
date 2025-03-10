@@ -36,6 +36,7 @@ Welcome to the **Java Basics Repository**! This repository contains **25 Java pr
 
 ---
 
+
 ### ✅ **Linux Setup**  
 1. **Install OpenJDK (Recommended for Linux)**  
    - Open **Terminal** and run:  
