@@ -7,6 +7,8 @@
  * including primitive types like int, float, char, boolean, and reference types like String.
  */
 
+
+
 public class VariablesAndDataTypes {
     public static void main(String[] args) {
         // Primitive data types
