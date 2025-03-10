@@ -6,6 +6,7 @@
  * This program demonstrates recursion by calculating the factorial of a number.
  */
 
+
 public class RecursionDemo {
     // Recursive method to calculate factorial
     public static int factorial(int n) {
