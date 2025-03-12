@@ -16,6 +16,7 @@ public class JDBCDemo {
         String user = "root";
         String password = "";
 
+        
         try {
             // Establishing connection
             Connection conn = DriverManager.getConnection(url, user, password);
