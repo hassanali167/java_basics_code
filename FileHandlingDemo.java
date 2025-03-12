@@ -13,6 +13,7 @@ import java.io.IOException;
 public class FileHandlingDemo {
     public static void main(String[] args) {
         String filename = "sample.txt";
+       
         
         // Writing to a file
         try (FileWriter writer = new FileWriter(filename)) {
