@@ -10,6 +10,7 @@ public class ArraysDemo {
         // Declare and initialize an array
         int[] numbers = {10, 20, 30, 40, 50};
         
+        
         // Display array elements using a for loop
         System.out.println("Array elements:");
         for (int i = 0; i < numbers.length; i++) {
