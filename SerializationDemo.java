@@ -18,6 +18,7 @@ class Person implements Serializable {
         this.age = age;
     }
 
+    
     void display() {
         System.out.println("Name: " + name + ", Age: " + age);
     }
