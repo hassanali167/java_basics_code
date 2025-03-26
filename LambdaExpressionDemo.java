@@ -6,6 +6,7 @@
  * This program demonstrates lambda expressions for functional programming.
  */
 
+ 
 import java.util.ArrayList;
 public class LambdaExpressionDemo {
     public static void main(String[] args) {
