@@ -16,6 +16,7 @@ public class OperatorsDemo {
         System.out.println("Multiplication: " + (a * b));
         System.out.println("Division: " + (a / b));
         
+        
         // Relational Operators
         System.out.println("a is greater than b: " + (a > b));
         
