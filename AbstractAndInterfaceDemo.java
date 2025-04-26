@@ -2,6 +2,7 @@
 // Topic: Understanding Abstract Classes and Interfaces in Java
 
 
+
 /*
  * Explanation:
  * This program demonstrates the use of an abstract class and an interface.
